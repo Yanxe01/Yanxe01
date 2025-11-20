@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yanxe01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+###
+
 <h1 align="center">Glad You're Here! Let's Make This Journey Amazing. 🚀</h1>
 
 ###
