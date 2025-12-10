@@ -3,9 +3,17 @@
 </div>
 
 ###
+
+<!-- Header GIF -->
+<div align="center">
+  <img src="image/header.gif" alt="Christianto Trisatria Lapu Header" width="100%" />
+</div>
+
+###
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=2000&color=FA0247E6&background=FF000000&center=true&vCenter=true&width=640&lines=Fullstack+Engineer;Machine+Learning+Enthusiast;Passionate+about+future+tech;AI+%26+Future+Technology+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=2000&color=F5F5F5E6&background=FF000000&center=true&vCenter=true&width=640&lines=Fullstack+Developer;Machine+Learning+Enthusiast;Passionate+about+future+tech;AI+%26+Future+Technology+Explorer)](https://git.io/typing-svg)
 </div>
 
 ###
@@ -14,7 +22,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! 🚀 I’m a passionate developer, video editor, and visual editor, constantly exploring new technologies and building innovative solutions. I primarily work with Adobe applications and DaVinci Resolve for editing. Check out my projects and feel free to collaborate. Let’s code and create something amazing together!</p>
+<p align="left">Welcome to my GitHub! 🚀 I'm a passionate developer, video editor, and visual editor, constantly exploring new technologies and building innovative solutions. I primarily work with Adobe applications and DaVinci Resolve for editing. Check out my projects and feel free to collaborate. Let's code and create something amazing together!</p>
 
 ###
 
@@ -22,7 +30,7 @@
 
 ###
 
-<p align="left">💻🎬 Who I Am: A passionate developer, video editor, and visual editor.<br><br>👨‍💻🎨 What I Do: I specialize in coding, creative design, and video editing.<br><br>🛠️ Tools I Use: Primarily Adobe applications and DaVinci Resolve for editing, along with various tech stacks for development.<br><br>🚀 My Passion: I enjoy blending technology with creativity to build innovative and impactful projects.<br><br>🤝 Collaborations: I love collaborating with like-minded individuals to create something meaningful.<br><br>🌟 Let’s Connect: I’m always up for new challenges and opportunities. Let’s create something amazing together!</p>
+<p align="left">💻🎬 Who I Am: A passionate developer, video editor, and visual editor.<br><br>👨‍💻🎨 What I Do: I specialize in coding, creative design, and video editing.<br><br>🛠️ Tools I Use: Primarily Adobe applications and DaVinci Resolve for editing, along with various tech stacks for development.<br><br>🚀 My Passion: I enjoy blending technology with creativity to build innovative and impactful projects.<br><br>🤝 Collaborations: I love collaborating with like-minded individuals to create something meaningful.<br><br>🌟 Let's Connect: I'm always up for new challenges and opportunities. Let's create something amazing together!</p>
 
 ###
 
