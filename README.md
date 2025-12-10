@@ -3,6 +3,14 @@
 </div>
 
 ###
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=2000&color=FA0247E6&background=FF000000&vCenter=true&width=640&lines=Fullstack+Engineer+(Frontend+%2B+Backend);Machine+Learning+Enthusiast;Passionate+about+future+tech;AI+%26+Future+Technology+Explorer)](https://git.io/typing-svg)
+
+</div>
+
+
+###
 
 <h1 align="center">Glad You're Here! Let's Make This Journey Amazing. 🚀</h1>
 
