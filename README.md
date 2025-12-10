@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! 🚀 I'm a passionate developer, video editor, and visual editor, constantly exploring new technologies and building innovative solutions. I primarily work with Adobe applications and DaVinci Resolve for editing. Check out my projects and feel free to collaborate. Let's code and create something amazing together!</p>
+<h6 align="center"><em>"Coding isn’t about what you know — it’s about what you can figure out."</em></h6>
 
 ###
 
@@ -30,68 +30,16 @@
 
 ###
 
-<p align="left">💻🎬 Who I Am: A passionate developer, video editor, and visual editor.<br><br>👨‍💻🎨 What I Do: I specialize in coding, creative design, and video editing.<br><br>🛠️ Tools I Use: Primarily Adobe applications and DaVinci Resolve for editing, along with various tech stacks for development.<br><br>🚀 My Passion: I enjoy blending technology with creativity to build innovative and impactful projects.<br><br>🤝 Collaborations: I love collaborating with like-minded individuals to create something meaningful.<br><br>🌟 Let's Connect: I'm always up for new challenges and opportunities. Let's create something amazing together!</p>
+<p align="left">Hay! I'm Ian a Fullstack Developer, Data Science and AI enthusiast currently in my 5th semester of Informatics Engineering at Hasanuddin University, pursuing the AI specialization track and constantly energized by the challenge of turning ideas into intelligent systems.<br><br>I’m driven by end-to-end creation from building full-stack applications and uncovering insights through data, to developing and deploying AI models that solve real problems. With 5 years of experience as a video editor and motion graphic designer, I bring a distinctive, user-centered perspective to every project blending solid engineering, clear visual storytelling, and thoughtful product design.<br><br>I also currently core team of Creative Media team at Google Developer Group on Campus UNHAS, where I focus on turning complex technical ideas into compelling video content and polished motion graphics.<br><br>Looking for opportunities in Data Science, Full-Stack Development, or AI Engineering that let me blend technical depth with visual storytelling to create meaningful and accessible AI-driven products.</p>
 
 ###
-
-<h2 align="left">I code with</h2>
+<h4 align="left">Connect With Me :</h4>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yanxe01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanxe01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yanxe01&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanxe01&radius=16&theme=arctic&area=true&order=5&custom_title=Contributions%20Graph&hide_border=true&hide_title=false&color=00FF87" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/nzb55nuptsonz42yod8hn07gl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nzb55nuptsonz42yod8hn07gl" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/christianto-trisatria-lapu-0915a137a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -112,6 +60,115 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yanxe01/Yanxe01/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div style="display: flex; gap: 20px;">
+
+  <!-- Left Side (Tech Stack Icons) -->
+  <div style="flex: 1;">
+    
+  <!-- Icons Row -->
+  <h4 align="left">💻 Programming
+  <div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+    </div>
+    🚀 Frameworks & Libraries
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="45"/>
+</div>
+🛠️ Tools & Platforms
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="45"/>
+</div>
+
+  <br/>
+
+  </div>
+
+  <!-- Right Side (Character Image) -->
+  <div style="flex: 1; text-align: center;">
+    <img src="image/coding.gif" width="250"/>
+  </div>
+
+</div>
+
+###
+
+<div align="center">
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Yanxe01&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yanxe01&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanxe01&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Yanxe01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+###
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/nzb55nuptsonz42yod8hn07gl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nzb55nuptsonz42yod8hn07gl" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanxe01/Yanxe01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanxe01/Yanxe01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yanxe01/Yanxe01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&text=Thanks%20for%20dropping%20in!%20Let%E2%80%99s%20keep%20building%20awesome%20things%20together.%E2%9A%A1&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FEC86A"  />
+</div>
+
+###
+
+
+
+
